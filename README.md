@@ -1,6 +1,6 @@
 # Pierwsza-Siec-neuronowa-
 
-pierwszą siecią neuronową którą zrobiłem to "CarAI"
+pierwszą siecią neuronową którą zrobiłem to "CarAI" w roblox studio, jedyna platforma na której dało sie przyjemnie programować
 
 
 ## Jak Ta Sieć Neuronowa Działa:
