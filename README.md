@@ -1,0 +1,1 @@
+# Pierwsza-Siec-neuronowa-
